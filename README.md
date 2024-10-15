@@ -76,3 +76,5 @@ Running `sudo -l` as adrian revealed that this user could run vim as sudo. Consu
 ## Conclusion
 
 The Napping box demonstrated vulnerabilities in web application security, particularly around the use of `target="_blank"` without proper safeguards. It also highlighted the importance of carefully managing sudo privileges and group permissions.
+
+© 2024 Andrew Gatsi 🛡️🔒💻 All Rights Reserved.
